@@ -1,3 +1,4 @@
 # apnaCollege-demo
-Just for learning purpose
+Just for learning purposes
+<br>
 Author - Muzzammil
